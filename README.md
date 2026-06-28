@@ -84,7 +84,7 @@ A data science project that analyzes road traffic accident data to identify patt
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/Siddhi-Shinde-dev/PRODIGY_DS_05>
    cd rta-accident-analysis
    ```
 
